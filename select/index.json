@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "LAST GAME",
+  "base_artist": "Zwei",
+  "createdAt": "2026-02-27T05:56:52.826141Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LAST GAME",
+      "artist": "ZWEI",
+      "has_synced": false,
+      "path": "select/01_LAST_GAME_ZWEI.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LAST GAME",
+      "artist": "Zwei",
+      "has_synced": true,
+      "path": "select/02_LAST_GAME_Zwei.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LAST GAME",
+      "artist": "Zwei",
+      "has_synced": true,
+      "path": "select/03_LAST_GAME_Zwei.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LAST GAME (From \"Steins;Gate 0\")",
+      "artist": "FalKKonE feat. Rena",
+      "has_synced": true,
+      "path": "select/04_LAST_GAME_(From__Steins;Gate_0_)_FalKKonE_feat._Rena.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last Game (from \"Steins;Gate 0\")",
+      "artist": "FalKKonE",
+      "has_synced": true,
+      "path": "select/05_Last_Game_(from__Steins;Gate_0_)_FalKKonE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LAST GAME",
+      "artist": "Zwei",
+      "has_synced": true,
+      "path": "select/06_LAST_GAME_Zwei.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LAST GAME",
+      "artist": "Zwei",
+      "has_synced": true,
+      "path": "select/07_LAST_GAME_Zwei.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LAST GAME (TVサイズ Ver.)",
+      "artist": "Zwei",
+      "has_synced": true,
+      "path": "select/08_LAST_GAME_(TVサイズ_Ver.)_Zwei.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LAST GAME",
+      "artist": "Zwei",
+      "has_synced": true,
+      "path": "select/09_LAST_GAME_Zwei.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LAST GAME (TV Size)",
+      "artist": "Zwei",
+      "has_synced": true,
+      "path": "select/10_LAST_GAME_(TV_Size)_Zwei.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LAST GAME",
+      "artist": "Zwei",
+      "has_synced": false,
+      "path": "select/pl_01_LAST_GAME_Zwei.txt"
+    }
+  ]
+}
